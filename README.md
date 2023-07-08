@@ -1,6 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working as freelancer<br>🌱 I’m currently learning Nodejs Backend
+<h1 align="center">Hi 👋, I'm Abdallah Shaltout</h1>
+<h3 align="center">Crafting Code. Creating Magic.</h3>
 
+- 🔭 I’m currently working on [eCommerce](#)
+
+- 👯 I’m looking to collaborate on **Some Ai Project**
+
+- 👨‍💻 All of my projects are available at [shaltout.vercel.app](shaltout.vercel.app)
+
+- 📫 How to reach me **abdallahshaltout2002@gmail.com**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abdullahshaltout) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdallashaltout) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdallahshaltout) 
