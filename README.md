@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Some Ai Project**
 
-- 👨‍💻 All of my projects are available at [shaltout.vercel.app](shaltout.vercel.app)
+- 👨‍💻 All of my projects are available at [Shaltout Portfolio](https://shaltout.vercel.app)
 
 - 📫 How to reach me [Messenger]([shaltout.vercel.app](https://www.facebook.com/abdullahshaltout/))
 
